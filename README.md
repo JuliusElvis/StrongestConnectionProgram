@@ -4,3 +4,5 @@ It determines through calls made between them and uses the total duration talked
 It is implemented using a graph that uses an adjacency list.
 The graph contains a node and an edge.
 The node contains the name of the person and the edge store the name of the caller, name of the person called and the weight which is the total duration of their calls.
+
+More details on this can be found under https://docs.google.com/document/d/1TcolhZa00GYl6_qxtmPAR8GbNwp2tp-wP77KGIZtcbU/edit?usp=sharing
